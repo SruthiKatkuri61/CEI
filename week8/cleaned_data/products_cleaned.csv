@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+P001,Oxford Comic,Books,Comic,23750
+P002,Levi'S Saree,Clothing,Saree,46440
+P003,Ikea Chair,Home,Chair,30885
+P004,Penguin Textbook,Books,Textbook,13651
+P005,Penguin Journal,Books,Journal,15310
+P006,Oxford Notebook,Books,Notebook,42589
+P007,Adidas Kurta,Clothing,Kurta,30109
+P008,Levi'S Shirt,Clothing,Shirt,9884
+P009,Ikea Table,Home,Table,13490
+P010,Home Centre Sofa,Home,Sofa,7119
+P011,Nike T-Shirt,Clothing,T-shirt,10278
+P012,Penguin Novel,Books,Novel,25258
+P013,Penguin Notebook,Books,Notebook,41331
+P014,Mcgraw Hill Notebook,Books,Notebook,32618
+P015,Prestige Fan,Home,Fan,34693
+P016,Oxford Comic,Books,Comic,13083
+P017,Oxford Comic,Books,Comic,22308
+P018,Home Centre Table,Home,Table,44672
+P019,Prestige Pillow,Home,Pillow,18538
+P020,Prestige Fan,Home,Fan,8202
+P021,Prestige Table,Home,Table,46856
+P022,Ikea Pillow,Home,Pillow,15742
+P023,Lenovo Keyboard,Electronics,Keyboard,47327
+P024,Dell Webcam,Electronics,Webcam,32750
+P025,Penguin Dictionary,Books,Dictionary,31342
+P026,Puma Shorts,Clothing,Shorts,29217
+P027,Puma T-Shirt,Clothing,T-shirt,34980
+P028,Ikea Fan,Home,Fan,39896
+P029,Mcgraw Hill Story Book,Books,Story Book,1601
+P030,Ikea Mattress,Home,Mattress,16510
+P031,Lenovo Laptop,Electronics,Laptop,8555
+P032,Ikea Sofa,Home,Sofa,21920
+P033,Oxford Dictionary,Books,Dictionary,45730
+P034,Prestige Chair,Home,Chair,37954
+P035,Levi'S Saree,Clothing,Saree,29520
+P036,Home Centre Mattress,Home,Mattress,37022
+P037,Dell Laptop,Electronics,Laptop,45806
+P038,Nike Saree,Clothing,Saree,31769
+P039,Ikea Fan,Home,Fan,45621
+P040,Ikea Sofa,Home,Sofa,11362
+P041,Prestige Sofa,Home,Sofa,21812
+P042,Puma Kurta,Clothing,Kurta,19074
+P043,Ikea Pillow,Home,Pillow,6325
+P044,Ikea Chair,Home,Chair,3889
+P045,Prestige Sofa,Home,Sofa,9924
+P046,Hp Laptop,Electronics,Laptop,27571
+P047,Mcgraw Hill Dictionary,Books,Dictionary,44029
+P048,Hp Keyboard,Electronics,Keyboard,47370
+P049,Puma Shirt,Clothing,Shirt,40644
+P050,Levi'S Shirt,Clothing,Shirt,13255
+P051,Dell Keyboard,Electronics,Keyboard,27711
+P052,Puma Shorts,Clothing,Shorts,3448
+P053,Hp Webcam,Electronics,Webcam,37714
+P054,Nike Saree,Clothing,Saree,42441
+P055,Ikea Pillow,Home,Pillow,38131
+P056,Lenovo Webcam,Electronics,Webcam,36300
+P057,Prestige Pillow,Home,Pillow,38714
+P058,Samsung Headphones,Electronics,Headphones,32752
+P059,Dell Printer,Electronics,Printer,38781
+P060,Mcgraw Hill Journal,Books,Journal,23723
+P061,Home Centre Table,Home,Table,42889
+P062,Mcgraw Hill Novel,Books,Novel,32861
+P063,Penguin Journal,Books,Journal,44047
+P064,Oxford Notebook,Books,Notebook,47315
+P065,Home Centre Sofa,Home,Sofa,9037
+P066,Samsung Webcam,Electronics,Webcam,45782
+P067,Lenovo Headphones,Electronics,Headphones,15281
+P068,Prestige Mattress,Home,Mattress,48863
+P069,Mcgraw Hill Dictionary,Books,Dictionary,20315
+P070,Oxford Novel,Books,Novel,43818
+P071,Samsung Mobile,Electronics,Mobile,4536
+P072,Ikea Fan,Home,Fan,4452
+P073,Penguin Journal,Books,Journal,11184
+P074,Dell Speaker,Electronics,Speaker,14510
+P075,Nike Shirt,Clothing,Shirt,19311
+P076,Penguin Story Book,Books,Story Book,17520
+P077,Home Centre Sofa,Home,Sofa,20436
+P078,Hp Speaker,Electronics,Speaker,2077
+P079,Penguin Textbook,Books,Textbook,32708
+P080,Home Centre Mattress,Home,Mattress,14024
+P081,Oxford Textbook,Books,Textbook,47929
+P082,Mcgraw Hill Textbook,Books,Textbook,41768
+P083,Lenovo Headphones,Electronics,Headphones,6689
+P084,Dell Mobile,Electronics,Mobile,13137
+P085,Prestige Mattress,Home,Mattress,48849
+P086,Lenovo Mobile,Electronics,Mobile,38971
+P087,Hp Mobile,Electronics,Mobile,6017
+P088,Prestige Chair,Home,Chair,45941
+P089,Nike Saree,Clothing,Saree,44036
+P090,Oxford Dictionary,Books,Dictionary,33467
+P091,Ikea Fan,Home,Fan,33877
+P092,Hp Webcam,Electronics,Webcam,33631
+P093,Penguin Story Book,Books,Story Book,39397
+P094,Levi'S Saree,Clothing,Saree,9536
+P095,Prestige Sofa,Home,Sofa,31003
+P096,Ikea Sofa,Home,Sofa,15739
+P097,Ikea Fan,Home,Fan,9167
+P098,Adidas Saree,Clothing,Saree,25575
+P099,Adidas Shorts,Clothing,Shorts,33034
+P100,Adidas Kurta,Clothing,Kurta,32684
+P101,Hp Webcam,Electronics,Webcam,37855
+P102,Penguin Textbook,Books,Textbook,19478
+P103,Prestige Pillow,Home,Pillow,44879
+P104,Ikea Fan,Home,Fan,36324
+P105,Home Centre Table,Home,Table,19878
+P106,Samsung Mouse,Electronics,Mouse,2271
+P107,Oxford Comic,Books,Comic,34440
+P108,Nike Saree,Clothing,Saree,31922
+P109,Mcgraw Hill Story Book,Books,Story Book,32030
+P110,Lenovo Laptop,Electronics,Laptop,37321
+P111,Home Centre Sofa,Home,Sofa,35018
+P112,Prestige Pillow,Home,Pillow,31764
+P113,Dell Headphones,Electronics,Headphones,10486
+P114,Oxford Story Book,Books,Story Book,4754
+P115,Mcgraw Hill Journal,Books,Journal,32072
+P116,Mcgraw Hill Notebook,Books,Notebook,6985
+P117,Mcgraw Hill Novel,Books,Novel,1278
+P118,Nike Shorts,Clothing,Shorts,24296
+P119,Ikea Fan,Home,Fan,23593
+P120,Oxford Journal,Books,Journal,23980
+P121,Home Centre Sofa,Home,Sofa,36022
+P122,Hp Speaker,Electronics,Speaker,27479
+P123,Mcgraw Hill Novel,Books,Novel,31382
+P124,Ikea Table,Home,Table,42794
+P125,Home Centre Chair,Home,Chair,23745
+P126,Samsung Printer,Electronics,Printer,40377
+P127,Dell Speaker,Electronics,Speaker,1059
+P128,Lenovo Laptop,Electronics,Laptop,19166
+P129,Lenovo Speaker,Electronics,Speaker,18207
+P130,Hp Mouse,Electronics,Mouse,18112
+P131,Oxford Journal,Books,Journal,29615
+P132,Samsung Speaker,Electronics,Speaker,47115
+P133,Hp Webcam,Electronics,Webcam,3094
+P134,Samsung Webcam,Electronics,Webcam,7932
+P135,Prestige Fan,Home,Fan,11052
+P136,Adidas Saree,Clothing,Saree,26293
+P137,Ikea Table,Home,Table,30006
+P138,Ikea Pillow,Home,Pillow,6079
+P139,Prestige Table,Home,Table,27044
+P140,Dell Speaker,Electronics,Speaker,31438
+P141,Ikea Sofa,Home,Sofa,31766
+P142,Home Centre Mattress,Home,Mattress,30178
+P143,Lenovo Speaker,Electronics,Speaker,19093
+P144,Dell Headphones,Electronics,Headphones,7565
+P145,Oxford Journal,Books,Journal,27092
+P146,Penguin Comic,Books,Comic,7063
+P147,Dell Headphones,Electronics,Headphones,7126
+P148,Lenovo Mouse,Electronics,Mouse,26224
+P149,Ikea Mattress,Home,Mattress,34394
+P150,Levi'S Jeans,Clothing,Jeans,24589
+P151,Nike Saree,Clothing,Saree,28151
+P152,Mcgraw Hill Story Book,Books,Story Book,10036
+P153,Penguin Journal,Books,Journal,8103
+P154,Lenovo Mobile,Electronics,Mobile,25223
+P155,Mcgraw Hill Novel,Books,Novel,8663
+P156,Adidas T-Shirt,Clothing,T-shirt,45217
+P157,Sony Keyboard,Electronics,Keyboard,4573
+P158,Levi'S Saree,Clothing,Saree,34373
+P159,Penguin Notebook,Books,Notebook,5849
+P160,Mcgraw Hill Dictionary,Books,Dictionary,7897
+P161,Home Centre Table,Home,Table,29191
+P162,Dell Mobile,Electronics,Mobile,4732
+P163,Adidas Saree,Clothing,Saree,1501
+P164,Home Centre Mattress,Home,Mattress,37388
+P165,Sony Speaker,Electronics,Speaker,31644
+P166,Nike Shirt,Clothing,Shirt,31933
+P167,Prestige Mattress,Home,Mattress,44802
+P168,Dell Keyboard,Electronics,Keyboard,934
+P169,Sony Laptop,Electronics,Laptop,15605
+P170,Dell Laptop,Electronics,Laptop,33872
+P171,Prestige Mattress,Home,Mattress,26043
+P172,Prestige Chair,Home,Chair,23991
+P173,Penguin Novel,Books,Novel,19935
+P174,Home Centre Table,Home,Table,366
+P175,Oxford Story Book,Books,Story Book,3858
+P176,Prestige Table,Home,Table,12392
+P177,Penguin Notebook,Books,Notebook,37411
+P178,Puma T-Shirt,Clothing,T-shirt,43355
+P179,Puma T-Shirt,Clothing,T-shirt,47212
+P180,Adidas T-Shirt,Clothing,T-shirt,39655
+P181,Home Centre Mattress,Home,Mattress,12028
+P182,Prestige Pillow,Home,Pillow,1736
+P183,Mcgraw Hill Novel,Books,Novel,41198
+P184,Sony Speaker,Electronics,Speaker,11220
+P185,Samsung Keyboard,Electronics,Keyboard,40319
+P186,Samsung Mobile,Electronics,Mobile,10734
+P187,Dell Mobile,Electronics,Mobile,44868
+P188,Puma Jeans,Clothing,Jeans,1147
+P189,Hp Printer,Electronics,Printer,11274
+P190,Adidas Kurta,Clothing,Kurta,47309
+P191,Hp Laptop,Electronics,Laptop,2981
+P192,Penguin Journal,Books,Journal,7867
+P193,Lenovo Webcam,Electronics,Webcam,8943
+P194,Ikea Fan,Home,Fan,16460
+P195,Ikea Fan,Home,Fan,44212
+P196,Sony Keyboard,Electronics,Keyboard,24385
+P197,Penguin Comic,Books,Comic,37948
+P198,Home Centre Sofa,Home,Sofa,3748
+P199,Sony Headphones,Electronics,Headphones,39659
+P200,Home Centre Table,Home,Table,41881
+P201,Penguin Journal,Books,Journal,37710
+P202,Penguin Novel,Books,Novel,26037
+P203,Mcgraw Hill Textbook,Books,Textbook,32652
+P204,Sony Headphones,Electronics,Headphones,33817
+P205,Sony Mobile,Electronics,Mobile,35953
+P206,Penguin Novel,Books,Novel,5971
+P207,Ikea Pillow,Home,Pillow,42995
+P208,Lenovo Webcam,Electronics,Webcam,24236
+P209,Oxford Comic,Books,Comic,40730
+P210,Penguin Novel,Books,Novel,4500
+P211,Ikea Sofa,Home,Sofa,10781
+P212,Levi'S T-Shirt,Clothing,T-shirt,11287
+P213,Prestige Pillow,Home,Pillow,9942
+P214,Dell Laptop,Electronics,Laptop,49739
+P215,Home Centre Mattress,Home,Mattress,1011
+P216,Ikea Mattress,Home,Mattress,39212
+P217,Puma Shorts,Clothing,Shorts,14722
+P218,Adidas Shorts,Clothing,Shorts,48474
+P219,Nike Jeans,Clothing,Jeans,1470
+P220,Ikea Sofa,Home,Sofa,35287
+P221,Dell Speaker,Electronics,Speaker,2409
+P222,Adidas T-Shirt,Clothing,T-shirt,40631
+P223,Levi'S T-Shirt,Clothing,T-shirt,32175
+P224,Prestige Table,Home,Table,28827
+P225,Ikea Fan,Home,Fan,17668
+P226,Sony Printer,Electronics,Printer,20670
+P227,Home Centre Chair,Home,Chair,29921
+P228,Puma Shirt,Clothing,Shirt,13208
+P229,Hp Headphones,Electronics,Headphones,3740
+P230,Adidas Jeans,Clothing,Jeans,22800
+P231,Dell Webcam,Electronics,Webcam,3522
+P232,Adidas Kurta,Clothing,Kurta,6388
+P233,Oxford Textbook,Books,Textbook,29330
+P234,Puma Shirt,Clothing,Shirt,15085
+P235,Sony Speaker,Electronics,Speaker,47538
+P236,Samsung Speaker,Electronics,Speaker,178
+P237,Mcgraw Hill Journal,Books,Journal,29783
+P238,Prestige Chair,Home,Chair,32060
+P239,Sony Keyboard,Electronics,Keyboard,24962
+P240,Mcgraw Hill Dictionary,Books,Dictionary,45766
+P241,Mcgraw Hill Dictionary,Books,Dictionary,33732
+P242,Penguin Notebook,Books,Notebook,10642
+P243,Oxford Novel,Books,Novel,7389
+P244,Oxford Dictionary,Books,Dictionary,32260
+P245,Prestige Table,Home,Table,42330
+P246,Penguin Textbook,Books,Textbook,37287
+P247,Sony Printer,Electronics,Printer,2887
+P248,Nike Kurta,Clothing,Kurta,9324
+P249,Adidas T-Shirt,Clothing,T-shirt,22827
+P250,Nike Kurta,Clothing,Kurta,46088
+P251,Hp Mouse,Electronics,Mouse,21934
+P252,Oxford Story Book,Books,Story Book,5661
+P253,Lenovo Mobile,Electronics,Mobile,33215
+P254,Adidas Saree,Clothing,Saree,6832
+P255,Lenovo Mobile,Electronics,Mobile,38891
+P256,Prestige Sofa,Home,Sofa,46931
+P257,Adidas Kurta,Clothing,Kurta,10993
+P258,Adidas Jeans,Clothing,Jeans,46422
+P259,Sony Mouse,Electronics,Mouse,45980
+P260,Sony Mouse,Electronics,Mouse,17390
+P261,Oxford Notebook,Books,Notebook,9834
+P262,Hp Speaker,Electronics,Speaker,27760
+P263,Puma Shorts,Clothing,Shorts,45453
+P264,Mcgraw Hill Textbook,Books,Textbook,17094
+P265,Home Centre Pillow,Home,Pillow,44745
+P266,Home Centre Mattress,Home,Mattress,19241
+P267,Adidas Jeans,Clothing,Jeans,8825
+P268,Levi'S Kurta,Clothing,Kurta,31733
+P269,Mcgraw Hill Novel,Books,Novel,32630
+P270,Penguin Novel,Books,Novel,9588
+P271,Home Centre Fan,Home,Fan,42128
+P272,Adidas Saree,Clothing,Saree,43587
+P273,Penguin Story Book,Books,Story Book,39179
+P274,Home Centre Chair,Home,Chair,29406
+P275,Lenovo Webcam,Electronics,Webcam,29492
+P276,Puma T-Shirt,Clothing,T-shirt,9424
+P277,Ikea Mattress,Home,Mattress,25892
+P278,Nike Saree,Clothing,Saree,45195
+P279,Home Centre Mattress,Home,Mattress,24714
+P280,Prestige Mattress,Home,Mattress,1506
+P281,Prestige Pillow,Home,Pillow,13253
+P282,Puma Shirt,Clothing,Shirt,26335
+P283,Penguin Notebook,Books,Notebook,35231
+P284,Levi'S T-Shirt,Clothing,T-shirt,12343
+P285,Mcgraw Hill Comic,Books,Comic,35848
+P286,Ikea Fan,Home,Fan,34676
+P287,Oxford Comic,Books,Comic,36880
+P288,Oxford Textbook,Books,Textbook,25550
+P289,Nike Kurta,Clothing,Kurta,23935
+P290,Ikea Chair,Home,Chair,43191
+P291,Lenovo Mobile,Electronics,Mobile,13969
+P292,Oxford Dictionary,Books,Dictionary,43601
+P293,Adidas T-Shirt,Clothing,T-shirt,27371
+P294,Samsung Printer,Electronics,Printer,9328
+P295,Penguin Dictionary,Books,Dictionary,35128
+P296,Prestige Fan,Home,Fan,11259
+P297,Adidas Jeans,Clothing,Jeans,33316
+P298,Hp Speaker,Electronics,Speaker,20168
+P299,Dell Speaker,Electronics,Speaker,20339
+P300,Oxford Story Book,Books,Story Book,46230
+P301,Nike T-Shirt,Clothing,T-shirt,46682
+P302,Ikea Pillow,Home,Pillow,8156
+P303,Dell Laptop,Electronics,Laptop,19409
+P304,Puma Shirt,Clothing,Shirt,10633
+P305,Nike Saree,Clothing,Saree,43990
+P306,Samsung Speaker,Electronics,Speaker,15301
+P307,Prestige Fan,Home,Fan,38372
+P308,Lenovo Mobile,Electronics,Mobile,31238
+P309,Samsung Printer,Electronics,Printer,49012
+P310,Puma Shirt,Clothing,Shirt,33667
+P311,Ikea Pillow,Home,Pillow,33681
+P312,Oxford Novel,Books,Novel,24518
+P313,Adidas T-Shirt,Clothing,T-shirt,4238
+P314,Prestige Mattress,Home,Mattress,23814
+P315,Nike Shirt,Clothing,Shirt,11113
+P316,Adidas Shorts,Clothing,Shorts,23742
+P317,Ikea Chair,Home,Chair,17933
+P318,Penguin Notebook,Books,Notebook,47845
+P319,Dell Mobile,Electronics,Mobile,4196
+P320,Prestige Pillow,Home,Pillow,32489
+P321,Home Centre Sofa,Home,Sofa,27314
+P322,Nike T-Shirt,Clothing,T-shirt,45291
+P323,Puma T-Shirt,Clothing,T-shirt,37770
+P324,Oxford Notebook,Books,Notebook,37349
+P325,Sony Webcam,Electronics,Webcam,7935
+P326,Oxford Textbook,Books,Textbook,41371
+P327,Dell Speaker,Electronics,Speaker,48467
+P328,Mcgraw Hill Comic,Books,Comic,14242
+P329,Ikea Fan,Home,Fan,20275
+P330,Samsung Printer,Electronics,Printer,16560
+P331,Mcgraw Hill Notebook,Books,Notebook,35686
+P332,Home Centre Chair,Home,Chair,22334
+P333,Penguin Novel,Books,Novel,5142
+P334,Hp Keyboard,Electronics,Keyboard,2297
+P335,Ikea Table,Home,Table,33715
+P336,Prestige Sofa,Home,Sofa,1825
+P337,Adidas Saree,Clothing,Saree,8607
+P338,Samsung Speaker,Electronics,Speaker,25141
+P339,Mcgraw Hill Dictionary,Books,Dictionary,19985
+P340,Sony Mobile,Electronics,Mobile,32011
+P341,Home Centre Mattress,Home,Mattress,39783
+P342,Oxford Story Book,Books,Story Book,23040
+P343,Home Centre Pillow,Home,Pillow,13044
+P344,Ikea Chair,Home,Chair,5050
+P345,Puma Shorts,Clothing,Shorts,9222
+P346,Oxford Novel,Books,Novel,23121
+P347,Mcgraw Hill Story Book,Books,Story Book,6673
+P348,Lenovo Mouse,Electronics,Mouse,31552
+P349,Samsung Printer,Electronics,Printer,41386
+P350,Lenovo Speaker,Electronics,Speaker,34682
+P351,Adidas Shirt,Clothing,Shirt,8319
+P352,Samsung Mobile,Electronics,Mobile,12610
+P353,Levi'S Shirt,Clothing,Shirt,26738
+P354,Puma T-Shirt,Clothing,T-shirt,21991
+P355,Home Centre Table,Home,Table,28386
+P356,Prestige Mattress,Home,Mattress,44197
+P357,Penguin Textbook,Books,Textbook,32967
+P358,Adidas Jeans,Clothing,Jeans,12040
+P359,Prestige Chair,Home,Chair,19013
+P360,Hp Mouse,Electronics,Mouse,7812
+P361,Home Centre Table,Home,Table,25118
+P362,Puma Kurta,Clothing,Kurta,17031
+P363,Nike Shirt,Clothing,Shirt,14777
+P364,Mcgraw Hill Notebook,Books,Notebook,42865
+P365,Oxford Dictionary,Books,Dictionary,43651
+P366,Ikea Chair,Home,Chair,32185
+P367,Puma Shirt,Clothing,Shirt,10413
+P368,Oxford Textbook,Books,Textbook,38263
+P369,Dell Keyboard,Electronics,Keyboard,8003
+P370,Oxford Comic,Books,Comic,44529
+P371,Prestige Sofa,Home,Sofa,36420
+P372,Sony Keyboard,Electronics,Keyboard,24110
+P373,Levi'S Kurta,Clothing,Kurta,36073
+P374,Home Centre Sofa,Home,Sofa,34847
+P375,Prestige Table,Home,Table,43348
+P376,Ikea Chair,Home,Chair,44486
+P377,Mcgraw Hill Story Book,Books,Story Book,6848
+P378,Mcgraw Hill Comic,Books,Comic,6116
+P379,Samsung Speaker,Electronics,Speaker,16669
+P380,Penguin Story Book,Books,Story Book,18007
+P381,Mcgraw Hill Novel,Books,Novel,33807
+P382,Ikea Mattress,Home,Mattress,5522
+P383,Samsung Printer,Electronics,Printer,6990
+P384,Levi'S Shirt,Clothing,Shirt,9970
+P385,Ikea Mattress,Home,Mattress,36792
+P386,Sony Keyboard,Electronics,Keyboard,2079
+P387,Dell Keyboard,Electronics,Keyboard,41818
+P388,Levi'S Shirt,Clothing,Shirt,22395
+P389,Sony Keyboard,Electronics,Keyboard,21473
+P390,Oxford Story Book,Books,Story Book,39355
+P391,Prestige Fan,Home,Fan,37828
+P392,Nike T-Shirt,Clothing,T-shirt,25452
+P393,Penguin Comic,Books,Comic,47104
+P394,Prestige Fan,Home,Fan,19475
+P395,Lenovo Laptop,Electronics,Laptop,37045
+P396,Samsung Keyboard,Electronics,Keyboard,30706
+P397,Oxford Story Book,Books,Story Book,12253
+P398,Ikea Chair,Home,Chair,48564
+P399,Hp Speaker,Electronics,Speaker,4939
+P400,Dell Mobile,Electronics,Mobile,18412
+P401,Oxford Novel,Books,Novel,3129
+P402,Nike T-Shirt,Clothing,T-shirt,45126
+P403,Lenovo Keyboard,Electronics,Keyboard,19121
+P404,Lenovo Laptop,Electronics,Laptop,45166
+P405,Prestige Sofa,Home,Sofa,34045
+P406,Levi'S Saree,Clothing,Saree,11356
+P407,Samsung Laptop,Electronics,Laptop,33549
+P408,Sony Mouse,Electronics,Mouse,47937
+P409,Levi'S Saree,Clothing,Saree,552
+P410,Oxford Textbook,Books,Textbook,49017
+P411,Oxford Dictionary,Books,Dictionary,8081
+P412,Penguin Notebook,Books,Notebook,2002
+P413,Home Centre Table,Home,Table,42362
+P414,Ikea Mattress,Home,Mattress,31489
+P415,Prestige Table,Home,Table,45803
+P416,Prestige Sofa,Home,Sofa,31952
+P417,Oxford Notebook,Books,Notebook,43248
+P418,Penguin Journal,Books,Journal,31894
+P419,Penguin Notebook,Books,Notebook,7299
+P420,Hp Mobile,Electronics,Mobile,13527
+P421,Ikea Sofa,Home,Sofa,38230
+P422,Oxford Novel,Books,Novel,21050
+P423,Penguin Textbook,Books,Textbook,22874
+P424,Ikea Sofa,Home,Sofa,15367
+P425,Adidas Shorts,Clothing,Shorts,46671
+P426,Penguin Journal,Books,Journal,18806
+P427,Oxford Journal,Books,Journal,6926
+P428,Mcgraw Hill Dictionary,Books,Dictionary,14042
+P429,Samsung Printer,Electronics,Printer,5450
+P430,Adidas Shirt,Clothing,Shirt,41666
+P431,Oxford Story Book,Books,Story Book,17539
+P432,Puma Shorts,Clothing,Shorts,49197
+P433,Prestige Table,Home,Table,48812
+P434,Dell Speaker,Electronics,Speaker,46670
+P435,Ikea Chair,Home,Chair,42213
+P436,Ikea Mattress,Home,Mattress,25687
+P437,Mcgraw Hill Comic,Books,Comic,37206
+P438,Levi'S Jeans,Clothing,Jeans,12602
+P439,Puma T-Shirt,Clothing,T-shirt,6337
+P440,Prestige Chair,Home,Chair,19526
+P441,Mcgraw Hill Dictionary,Books,Dictionary,2978
+P442,Adidas Shirt,Clothing,Shirt,44044
+P443,Levi'S Shorts,Clothing,Shorts,2029
+P444,Puma Shorts,Clothing,Shorts,44068
+P445,Prestige Table,Home,Table,17445
+P446,Oxford Comic,Books,Comic,28721
+P447,Nike T-Shirt,Clothing,T-shirt,1153
+P448,Puma Kurta,Clothing,Kurta,21606
+P449,Home Centre Chair,Home,Chair,28857
+P450,Mcgraw Hill Novel,Books,Novel,20715
+P451,Sony Mouse,Electronics,Mouse,6487
+P452,Nike Saree,Clothing,Saree,5111
+P453,Nike Shorts,Clothing,Shorts,47895
+P454,Prestige Sofa,Home,Sofa,2737
+P455,Ikea Table,Home,Table,22926
+P456,Adidas T-Shirt,Clothing,T-shirt,10009
+P457,Penguin Novel,Books,Novel,40539
+P458,Sony Headphones,Electronics,Headphones,23673
+P459,Puma Jeans,Clothing,Jeans,34411
+P460,Dell Laptop,Electronics,Laptop,10614
+P461,Mcgraw Hill Novel,Books,Novel,19640
+P462,Sony Speaker,Electronics,Speaker,48492
+P463,Home Centre Table,Home,Table,36213
+P464,Adidas Shirt,Clothing,Shirt,48925
+P465,Adidas Kurta,Clothing,Kurta,44076
+P466,Oxford Journal,Books,Journal,44729
+P467,Prestige Pillow,Home,Pillow,4815
+P468,Mcgraw Hill Story Book,Books,Story Book,31147
+P469,Home Centre Mattress,Home,Mattress,35422
+P470,Lenovo Mouse,Electronics,Mouse,48205
+P471,Oxford Dictionary,Books,Dictionary,20713
+P472,Ikea Fan,Home,Fan,34055
+P473,Mcgraw Hill Notebook,Books,Notebook,4775
+P474,Penguin Journal,Books,Journal,16937
+P475,Mcgraw Hill Novel,Books,Novel,49258
+P476,Adidas Kurta,Clothing,Kurta,41517
+P477,Oxford Dictionary,Books,Dictionary,6322
+P478,Penguin Story Book,Books,Story Book,10241
+P479,Samsung Headphones,Electronics,Headphones,29359
+P480,Adidas Jeans,Clothing,Jeans,17851
+P481,Mcgraw Hill Novel,Books,Novel,22905
+P482,Mcgraw Hill Novel,Books,Novel,46633
+P483,Ikea Sofa,Home,Sofa,40553
+P484,Nike Shorts,Clothing,Shorts,2350
+P485,Prestige Pillow,Home,Pillow,19706
+P486,Ikea Pillow,Home,Pillow,18387
+P487,Oxford Journal,Books,Journal,44036
+P488,Oxford Novel,Books,Novel,33251
+P489,Levi'S Shirt,Clothing,Shirt,45110
+P490,Lenovo Webcam,Electronics,Webcam,21027
+P491,Nike Saree,Clothing,Saree,44129
+P492,Adidas T-Shirt,Clothing,T-shirt,1262
+P493,Levi'S Kurta,Clothing,Kurta,3254
+P494,Home Centre Table,Home,Table,176
+P495,Adidas Shorts,Clothing,Shorts,16097
+P496,Nike Kurta,Clothing,Kurta,16034
+P497,Mcgraw Hill Comic,Books,Comic,43973
+P498,Mcgraw Hill Story Book,Books,Story Book,49354
+P499,Oxford Textbook,Books,Textbook,27430
+P500,Ikea Mattress,Home,Mattress,49191
