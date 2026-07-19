@@ -9,6 +9,7 @@ The project follows the Medallion Architecture (Bronze → Silver → Gold) to e
 - Databricks
 - Spark SQL
 ## Project Architecture
+```
 Raw CSV Data
       │
       ▼
@@ -30,7 +31,7 @@ Anomaly Detection
 SQL Analysis
 
 ##  Repository Structure
-
+```
 ```
 Smart_Meter_Data_Pipeline/
 │
